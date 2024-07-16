@@ -5,11 +5,13 @@
 [![Maven](https://img.shields.io/badge/Maven-3.8.1-blue)](https://maven.apache.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)](https://www.mysql.com/)
 [![Lombok](https://img.shields.io/badge/Lombok-1.18.22-green)](https://projectlombok.org/)
+[![Insomnia](https://img.shields.io/badge/Insomnia-2022.1.2-%238A2BE2)](https://insomnia.rest/)
+[![Postman](https://img.shields.io/badge/Postman-9.9.9-orange)](https://www.postman.com/)
 [![License](https://img.shields.io/badge/License-Open%20Source-yellow)](https://opensource.org/)
 
 ## Challenge OracleOne y Alura Latam
 
-Esta API proporciona funcionalidades CRUD para gestionar mensajes de un foro. Se puede interactuar con ella utilizando herramientas como Insomnia o Postman.
+Esta API proporciona funcionalidades CRUD para gestionar tópicos de un foro. Se puede interactuar con ella utilizando herramientas como Insomnia o Postman.
 
 ## Funcionalidades
 
