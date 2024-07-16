@@ -20,4 +20,4 @@ Esta API proporciona funcionalidades CRUD para gestionar mensajes de un foro. Se
 
 ## Demostración
 
-![Demo GIF](https://raw.githubusercontent.com/ssuarezcode/literalura-challenge-oracleone/main/Captura.png)
+![Demo GIF](https://raw.githubusercontent.com/ssuarezcode/forohub-challenge-oracleone/main/demo.gif)
