@@ -5,6 +5,7 @@ create table topicos(
     titulo varchar(100) not null unique,
     curso varchar(100) not null,
     mensaje varchar(100) not null,
+    fecha datetime not null,
 
     primary key(id)
 
